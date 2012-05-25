@@ -1,0 +1,1 @@
+jshint test/* --config jshint-config.json && mocha
